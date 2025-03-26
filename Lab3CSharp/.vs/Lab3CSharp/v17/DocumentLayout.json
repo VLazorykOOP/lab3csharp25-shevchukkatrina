@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\Lab3CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E0E30C3-4B03-439E-8405-7A1613608D80}|Lab3CSharp.csproj|c:\\users\\dell\\desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\lab3csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E0E30C3-4B03-439E-8405-7A1613608D80}|Lab3CSharp.csproj|C:\\Users\\Dell\\Desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\Lab3CSharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E0E30C3-4B03-439E-8405-7A1613608D80}|Lab3CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0E30C3-4B03-439E-8405-7A1613608D80}|Lab3CSharp.csproj|c:\\users\\dell\\desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\lab3csharp\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0E30C3-4B03-439E-8405-7A1613608D80}|Lab3CSharp.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0E30C3-4B03-439E-8405-7A1613608D80}|Lab3CSharp.csproj|c:\\users\\dell\\desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\lab3csharp\\atriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0E30C3-4B03-439E-8405-7A1613608D80}|Lab3CSharp.csproj|solutionrelative:atriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ATriangle.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\Lab3CSharp\\ATriangle.cs",
+              "RelativeDocumentMoniker": "ATriangle.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\Lab3CSharp\\ATriangle.cs",
+              "RelativeToolTip": "ATriangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:03:15.356Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -26,13 +47,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\Lab3CSharp\\Task2.cs",
+              "RelativeDocumentMoniker": "Task2.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\Lab3CSharp\\Task2.cs",
+              "RelativeToolTip": "Task2.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwv0AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:00:10.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\Lab3CSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\\u043A-\u043F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\\\u043B\u0430\u0431\u04303\\Lab3CSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T14:15:28.825Z",
               "EditorCaption": ""

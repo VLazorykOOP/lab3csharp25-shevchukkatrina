@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\к-п програм\лаба3\Lab3CSharp\obj\Debug\Lab3CSharp.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\к-п програм\лаба3\Lab3CSharp\obj\Debug\Lab3CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\к-п програм\лаба3\Lab3CSharp\bin\Debug\Lab3CSharp.exe.config
+C:\Users\Dell\Desktop\к-п програм\лаба3\Lab3CSharp\bin\Debug\Lab3CSharp.exe
+C:\Users\Dell\Desktop\к-п програм\лаба3\Lab3CSharp\bin\Debug\Lab3CSharp.pdb
+C:\Users\Dell\Desktop\к-п програм\лаба3\Lab3CSharp\obj\Debug\Lab3CSharp.exe
+C:\Users\Dell\Desktop\к-п програм\лаба3\Lab3CSharp\obj\Debug\Lab3CSharp.pdb
