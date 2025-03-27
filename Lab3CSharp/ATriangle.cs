@@ -16,7 +16,14 @@ class ATriangle
     {
         Console.WriteLine($"Катети: a = {a}, b = {b}, гіпотенуза = {GetHypotenuse():F2}, Колір: {color}");
     }
-
+    public int A {
+             get {
+                 return a;
+             }
+            set {
+                if (value >0 } a =value ;
+                    else a=0;
+    }
     public double GetPerimeter()
     {
         return a + b + GetHypotenuse();
